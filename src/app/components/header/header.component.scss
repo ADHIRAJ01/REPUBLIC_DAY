@@ -1,0 +1,28 @@
+h1,h2 {
+    color: red;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+#flag {
+    background-image: url('https://media3.giphy.com/media/Sr2vBn7moPKuNMMu69/200.webp?cid=ecf05e47y7ivtk6iwkvswp5x0cgm17v3p7s2ibyet27jchz5&rid=200.webp&ct=g');
+    background-repeat:no-repeat;
+    width: 100%;
+}
+col-12{
+    padding: 0;
+}
+#one{
+    background-color: orange;
+}
+#blue{
+    background-color: white;
+    
+}
+#green{
+    background-color: green;
+}
+
+nav{
+   background: linear-gradient(orange , white , green );
+}
